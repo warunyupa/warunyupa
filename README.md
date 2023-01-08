@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=wave&color=auto&height=300&section=header&text=Hi!%20I'm%20Prem&fontSize=90&animation=fadeIn&fontColor=2D82CE)
+![header](https://capsule-render.vercel.app/api?type=wave&color=EDF4F9&height=300&section=header&text=Hi!%20I'm%20Prem&fontSize=90&animation=fadeIn&fontColor=2D82CE)
 
 <h3>🌱 I’m currently learning computer engineer. </h3>
 
