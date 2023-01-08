@@ -22,6 +22,13 @@ Here are some ideas to get you started:
 <h3 align="center">⚡ Fun fact: my hobbies is separate vetgie.👀</h3>
 <br>
 
+<br>
+<h2 align="center">📧 Contact me</h2>
+<p align="center">
+  <a href="https://www.instagram.com/prem.wn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
+  <a href="mailto:pram.warun@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
+</p>
+
 <h2 align="center">🤖 Programming skill</h2>
 <!-- c,c++,java,python-->
 <p align="center"> <a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"> 
@@ -55,10 +62,3 @@ Here are some ideas to get you started:
 <p>
     <img align="left" src="https://github-readme-stats.vercel.app/api?username=warunyupa&show_icons=true&locale=en" alt="warunyupa" width="50%" />
     <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warunyupa&show_icons=true&locale=en&layout=compact" alt="warunyupa" widhth="50%"/></p>
-
-<br>
-<h2 align="center">📧 Contact me</h2>
-<p align="center">
-  <a href="https://www.instagram.com/prem.wn/"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=Instagram&logoColor=white&link=https://www.instagram.com/hye_inisfree/"/></a>&nbsp
-  <a href="mailto:pram.warun@gmail.com"><img src="https://img.shields.io/badge/Gmail-d14836?style=flat-square&logo=Gmail&logoColor=white&link=kimhyein7110@gmail.com"/></a>
-</p>
