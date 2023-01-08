@@ -51,8 +51,12 @@ Here are some ideas to get you started:
 <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/photoshop/photoshop-line.svg" alt="photoshop" width="40" height="40"/> </a> <a href="https://www.python.org" target="_blank" rel="noreferrer"> 
 </p>
 
+<>
+
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=warunyupa&show_icons=true&locale=en&layout=compact" alt="warunyupa" /></p>
+<br>
 
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=warunyupa&show_icons=true&locale=en" alt="warunyupa" /></p>
-
-<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=warunyupa&" alt="warunyupa" /></p>
+<p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=warunyupa&show_icons=true&locale=en" alt="warunyupa" />
+    <img align="right" src="https://github-readme-streak-stats.herokuapp.com/?user=warunyupa&" alt="warunyupa" />
+</p>
