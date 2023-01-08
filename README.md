@@ -53,6 +53,5 @@ Here are some ideas to get you started:
 
 <br>
 <p>
-    <img align="left" src="https://github-readme-stats.vercel.app/api?username=warunyupa&show_icons=true&locale=en" alt="warunyupa"  />
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warunyupa&show_icons=true&locale=en&layout=compact" alt="warunyupa" />
-</p>
+    <img align="left" src="https://github-readme-stats.vercel.app/api?username=warunyupa&show_icons=true&locale=en" alt="warunyupa" width="50%" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=warunyupa&show_icons=true&locale=en&layout=compact" alt="warunyupa" widht="50%"/></p>
