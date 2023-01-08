@@ -1,5 +1,6 @@
 ### Hi there 👋
-🌱 I’m currently learning computer engineer.
+🌱 I’m currently learning computer engineer. </br>
+⚡ Fun fact: I love eat sweetie.
 <!--
 **warunyupa/warunyupa** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
