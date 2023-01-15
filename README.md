@@ -19,7 +19,7 @@ Here are some ideas to get you started:
 <h3 align="center">🌱 I’m studing computer engineer at mahidol university. </h3>
 <p align="center"> >> Interesting web development and designing website << </p>
 
-<h3 align="center">⚡ Fun fact: my hobbies is separate vetgie.👀</h3>
+<h3 align="center">⚡ Fun fact: my hobbies is separate vetgies.👀</h3>
 <br>
 
 <br>
